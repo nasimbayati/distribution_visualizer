@@ -36,9 +36,6 @@ The program displays four subplots:
 python distribution_visualizer.py
 ```
 
-## 📝 Example Output
-![Sample Visual](path/to/sample_output.png) <!-- Optional placeholder -->
-
 ## 🔮 Future Enhancements
 - Add user input or CLI options to control distributions
 - Export plots as image files
