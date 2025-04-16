@@ -35,9 +35,6 @@ The CLI script displays four types of statistical plots:
 python distribution_visualizer.py
 ```
 
-## 💡 Example Output (Visual Only)
-> Replace this with an image capture from the script if desired.
-
 ## 🔮 Future Extensions
 - Allow user selection of specific plots
 - Enable export to PNG/PDF
